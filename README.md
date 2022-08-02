@@ -140,7 +140,7 @@ REACT_APP_API_URL = [API_URL]
     <td>Home</td>
   </tr>
   <tr>
-    <td><image src="https://res.cloudinary.com/dbpfwb5ok/image/upload/v1659173872/portofolio/Hirejob/Profile_rlshr8.png" width=100%></td>
+    <td><image src="https://res.cloudinary.com/dbpfwb5ok/image/upload/v1659362992/portofolio/Hirejob/Profile_qarrl3.png" width=100%></td>
     <td><image src="https://res.cloudinary.com/dbpfwb5ok/image/upload/v1659174007/portofolio/Hirejob/edit_profile_eixzem.png" alt="Home2" width=100%/></td>
   </tr>
   <tr>
