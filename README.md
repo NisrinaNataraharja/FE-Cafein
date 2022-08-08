@@ -145,7 +145,7 @@ REACT_APP_API_URL = [API_URL]
   </tr>
   <tr>
     <td>Profile</td>
-    <td>Eit Profile</td>
+    <td>Edit Profile</td>
   </tr>
   <tr>
     <td><image src="https://res.cloudinary.com/dbpfwb5ok/image/upload/v1659171988/portofolio/Hirejob/Hiring_u1pfua.png" width=100%></td>
